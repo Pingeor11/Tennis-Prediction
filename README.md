@@ -42,11 +42,11 @@ We compute separate Elo ratings per surface, which captures something ATP rankin
 
 **Rafael Nadal** — clay Elo consistently above overall, confirming surface dominance. Grass Elo significantly lower and step-like due to fewer matches.
 
-![Rafael Nadal Elo](images/RafaelNadal_elo_rating.png)
+![Rafael Nadal Elo](code/images/RafaelNadal_elo_rating.png)
 
 **Roger Federer** — hard court Elo tracks almost identically with overall, reflecting where he played most of his best tennis. Clay notably weaker relative to his overall rating.
 
-![Roger Federer Elo](images/RogerFederer_elo_rating.png)
+![Roger Federer Elo](code/images/RogerFederer_elo_rating.png)
 
 ---
 
